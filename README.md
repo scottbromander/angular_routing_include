@@ -6,6 +6,9 @@ Technologies included:
 - angular-route 1.4.x
   - ng-view
 
-Lecture Dependencies
+Lecture Dependencies:
 - Angular
 - Angular Controllers
+- Node
+- Express
+- Grunt
