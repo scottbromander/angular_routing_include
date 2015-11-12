@@ -12,3 +12,6 @@ Lecture Dependencies:
 - Node
 - Express
 - Grunt
+
+##Overview
+Project created to demonstrate the functionality of the ngRoute service while also showing how ng-include can be used to keep the index.html clean. Portions of the html are abstracted out into separate files to allow for separation of concerns and easy maintainability. 
